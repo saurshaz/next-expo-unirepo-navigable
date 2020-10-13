@@ -15,7 +15,7 @@ export default function index(props) {
       display: 'flex',
       justifyContent: 'center',
       alignItems: 'center',
-      borderRadius: '50%'
+      borderRadius: 50
     }} routeName='first'>
       Go
     </Link>
